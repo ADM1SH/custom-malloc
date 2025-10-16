@@ -1,0 +1,4 @@
+# Compiled files
+*.o
+mymalloc_min
+mymalloc_adv
